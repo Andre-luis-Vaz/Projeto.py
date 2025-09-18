@@ -15,6 +15,7 @@ Exportar os resultados analisados em CSV.
 
 ##🔹 Links de Acesso
 Aplicação web publicada no Streamlit Cloud (protótipo online):
+
 👉 https://andrevaz-atividade-extencionista2.streamlit.app/
 
 Esses links comprovam a implantação prática do projeto, permitindo que professores e gestores educacionais acessem a aplicação e utilizem os dados de leitura como apoio ao processo pedagógico.
