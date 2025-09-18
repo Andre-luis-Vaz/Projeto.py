@@ -10,11 +10,13 @@ Importar dados de alunos em formato CSV/Excel.
 Classificar automaticamente os níveis de fluência em leitura (Baixo, Médio, Alto).
 Gerar gráficos interativos (distribuição geral e média por turma).
 Exportar os resultados analisados em CSV.
-🔹 Links de Acesso
-Repositório GitHub com o código-fonte do protótipo:
-👉 https://github.com/Andre-luis-Vaz/Projeto.py
+
+--
+
+##🔹 Links de Acesso
 Aplicação web publicada no Streamlit Cloud (protótipo online):
 👉 https://andrevaz-atividade-extencionista2.streamlit.app/
+
 Esses links comprovam a implantação prática do projeto, permitindo que professores e gestores educacionais acessem a aplicação e utilizem os dados de leitura como apoio ao processo pedagógico.
 
 ---
